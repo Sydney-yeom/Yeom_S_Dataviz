@@ -1,4 +1,5 @@
 # Yeom_S_Dataviz
+The data analyses of the chart 'WinterOlympic'.
 
 ## Topic
 Asian Countries' medal data analyses.
