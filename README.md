@@ -1,4 +1,4 @@
-# Yeom_S_Dataviz
+# The Data Analyses!
 The data analyses of the chart 'WinterOlympic'.
 
 ## Topic

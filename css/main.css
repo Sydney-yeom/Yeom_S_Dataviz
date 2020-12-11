@@ -1,0 +1,155 @@
+/* CSS */
+
+.hidden {
+    display: none;
+}
+
+img { 
+    border: none; 
+    margin: 0; 
+    padding: 0;
+}
+
+/* Intro */
+.title {
+    padding-top: 35px;
+    font-size: 35px;
+}
+
+.header-intro {
+    line-height: 5px;
+}
+
+.subtitle {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.asian-countries {
+    font-size: 12px;
+}
+
+.intro-title {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 23px;
+}
+
+.intro {
+    margin: auto 90px;
+    padding: 0;
+    line-height: 14px;
+}
+
+/* Body set */
+body {
+    margin: 5px auto;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-size: 12px;
+    color: #000;
+    background-color: #e9e9e9;
+    text-align: center;
+}
+
+/* Container set */
+#Container {
+    width: 1000px;
+    margin: auto;
+    background-color: #fff;
+    padding: 0;
+}
+
+/* Point 1 -article-1-1*/
+.point-1 {
+    margin-top: 50px;
+}
+
+.entire-comparison {
+    margin: auto 100px;
+    line-height: 14px;
+    text-align: left;
+}
+
+.h3-article-1 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* Point 1 -article-1-2*/
+.article-1-2 {
+    margin-top: 135px;
+}
+
+.img {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.h4-article-2 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.detailed-comparison {
+    margin: auto 90px;
+    line-height: 14px;
+    text-align: left;
+}
+
+.legend {
+    font-family: Arial;
+    font-weight: bold;
+    padding-top: 5px;
+    line-height: 20px;
+}
+
+/* Point 2 -article-2-1 */
+.point-2 {
+    margin-top: 135px;
+}
+
+.h4-article-2 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.img-2 {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.analysis-sports {
+    margin: auto 90px;
+    line-height: 14px;
+    text-align: left;
+}
+
+/* Point 3 -article-3-1 */
+.point-3 {
+    margin-top: 135px;
+}
+
+.h3-article-3 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.img-3 {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.articles {
+    margin: auto 90px;
+    line-height: 14px;
+    text-align: left;
+}
+
+/* Footer */
+.writter {
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
